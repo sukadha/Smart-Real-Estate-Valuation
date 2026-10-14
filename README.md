@@ -1,66 +1,16 @@
-# 🏠 House Price Prediction with AI Assistant
+Smart Real Estate Valuation with AI Assistant | Machine Learning Project
 
-A machine learning-based web application that predicts house prices using property details such as area, number of bedrooms, bathrooms, main road availability, and basement availability.
+xcited to share my latest project — an AI-powered House Price Prediction Web Application! 🚀
+🔹 Machine Learning: Gradient Boosting Regression
+ 🔹 Features: Area, Bedrooms, Bathrooms, Main Road & Basement
+ 🔹 Frontend: React + Vite
+ 🔹 Backend: Python + Flask
+ 🔹 Generative AI: Gemini AI Assistant 🤖
+ 🔹 Dataset: Housing Price Dataset
+✨ Key Highlight: Users can not only predict house prices but also interact with the Gemini AI Assistant using natural-language questions about house prices and the dataset.
+This project helped me gain practical experience in Machine Learning, Full-Stack Development, REST APIs, and Generative AI integration.
 
-The project combines a **Machine Learning prediction model** with a **Gemini AI Assistant**, allowing users to make predictions and ask questions about the housing dataset through a conversational interface.
+#MachineLearning #AI #GenerativeAI #Python #Flask #React #GeminiAI #DataScience #ArtificialIntelligence #WebDevelopment #ProjectShowcase
 
----
-
-## 📌 Project Overview
-
-The **House Price Prediction** system uses a Gradient Boosting Regression model to estimate the price of a house based on user-provided property details.
-
-The application has two main components:
-
-1. **House Price Prediction**
-   - Users enter house details.
-   - The Flask backend sends the input to the trained ML model.
-   - The model predicts the estimated house price.
-
-2. **Gemini AI Assistant**
-   - Users can ask questions in natural language.
-   - The AI Assistant can understand house-related queries.
-   - It can provide ML-based price predictions when sufficient information is available.
-   - It can answer questions related to the housing dataset.
-
----
-
-## 🎯 Aim
-
-To develop an AI-powered web application that predicts house prices using machine learning and provides an interactive Gemini AI Assistant for answering housing and dataset-related questions.
-
----
-
-## 🎯 Objectives
-
-- Build a machine learning model for house price prediction.
-- Use important housing features to estimate prices.
-- Develop a Flask backend for ML prediction APIs.
-- Develop a React/Vite frontend for an interactive user interface.
-- Integrate Gemini AI for conversational assistance.
-- Allow users to ask house-price questions using natural language.
-- Provide dataset-related information through the AI Assistant.
-- Create a simple and user-friendly prediction interface.
-
----
-
-## 🧠 Machine Learning Model
-
-The project uses a:
-
-### Gradient Boosting Regressor
-
-The model is trained using the following features:
-
-| Feature | Description |
-|---|---|
-| `area` | Area of the house in square feet |
-| `bedrooms` | Number of bedrooms |
-| `bathrooms` | Number of bathrooms |
-| `mainroad` | Whether the house is connected to the main road |
-| `basement` | Whether the house has a basement |
-
-### Target Variable
-
-```text
-price
+![Smart Real Estate Valuation with AI Assistant output](https://github.com/sukadha/Smart-Real-Estate-Valuation/blob/main/11.jpg)
+![Smart Real Estate Valuation with AI Assistant output](https://github.com/sukadha/Smart-Real-Estate-Valuation/blob/main/12.jpg)
